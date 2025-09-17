@@ -24,3 +24,7 @@ Please run `plot_teting.py` with dataset_name as arguments. There is a variable 
 
 ## Ablation Anlysis
 Two ablation tests are conducetd. One is using GTN directly for classification, and the other is replacing cosine similarity with Euclidean distance. Codes are all stored in `src/Ablation_test`. Run same way as ProtoPGTN and the results are stored in `results/Ablation_test`. 
+
+## Archived Results
+All the raw results are saved in `archived_results`. 
+
