@@ -1,0 +1,21 @@
+﻿dataset,ProtoPGTN,ProtoPLSTM,No. variable,length
+ArticularyWordRecognition,103.6,281.1725,9,144
+BasicMotions,55.76,138.7843,6,100
+EMOPain,85.68,2857,30,200
+EthanolConcentration,42.2,53.4,3,"1,751"
+EyesOpenShut,25.75,642.34,14,128
+FaceDetection,62.43,62267 (est),144,62
+DuckDuckGeese,1490.77,5440971.19 (est),1345,270
+JapaneseVowels,34.8769,435.54 (est),12,25
+MotionSenseHAR,460.78,523.5784,12,1000
+RacketSports,35.1514,111.93,6,30
+FingerMovements,54.3683,2362.59,28,50
+Heartbeat,263.2381,11776.62,61,405
+Libras,37.7144,11.95 (est),2,45
+LSST,37.6724,112.12 (est),6,36
+MindReading,323.9383,125282.15 (est),204,200
+NATOPS,45.2137,1737.69 (est),24,51
+PEMS-SF,1774.8326,2784217.19 (est),963,144
+PenDigits,26.8493,15.1 (est),2,8
+PhonemeSpectra,180.0346,431.7348,11,217
+SpokenArabicDigits,66.348,574.7389,13,65
