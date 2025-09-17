@@ -1,0 +1,2 @@
+dataset_name,best_val_accuracy,test_accuracy_at_best_val,training_time_seconds,training_time_minutes
+ArticularyWordRecognition,0.9818181818181818,0.97,322.91491627693176,5.381915271282196

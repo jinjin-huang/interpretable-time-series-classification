@@ -80,8 +80,7 @@ class ProtoPGTN(nn.Module):
         encoding = self.features(x, stage="train" if self.training else "test")
         encoding = self.feature_adapter(encoding)
         dist = self.proto_layer(encoding)
-        sim_scores = torch.log10((dist + 1) / (dist + self.proto_layer.epsilon))
-        output = self.fc_layer(sim_scores)
+        output = self.fc_layer(-dist)
         return output
 
     def project_prototypes(self, x, y):

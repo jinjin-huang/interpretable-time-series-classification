@@ -47,17 +47,12 @@ class ProtoLayer(nn.Module):
 
     def forward(self, x):
         # cosine similarity
-
         x_norm = F.normalize(x, p=2, dim=1)
         p_norm = F.normalize(self.prototypes, p=2, dim=1)
         # Compute cosine similarity between inputs and prototypes
         sim_scores = torch.mm(x_norm, p_norm.t())
         # return distance as 1 - cosine similarity
         return 1 - sim_scores
-
-        # # Euclidean distance
-        # dist = torch.cdist(x, self.prototypes, p=2)  # shape: (batch, n_proto)
-        # return dist
 
 
 class ProtoPGTN(nn.Module):
