@@ -1,0 +1,2 @@
+dataset_name,experiment_run,best_val_acc,best_test_acc_at_val,training_time_sec
+ArticularyWordRecognition,001,0.7273,0.6300,99.11
