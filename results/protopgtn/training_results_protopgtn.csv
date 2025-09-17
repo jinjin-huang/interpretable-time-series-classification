@@ -1,0 +1,2 @@
+Dataset,Experiment,Training Time (s),Best Val Acc,Test Acc at Best Val
+ArticularyWordRecognition,001,37.68814659118652,0.8363636363636363,0.9133333333333333

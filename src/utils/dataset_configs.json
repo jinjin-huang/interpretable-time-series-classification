@@ -92,7 +92,7 @@
     },
     {
         "dataset_name": "ArticularyWordRecognition",
-        "data_path": "../../datasets/ArticularyWordRecognition/",
+        "data_path": "datasets/ArticularyWordRecognition/",
         "num_classes": 25,
         "num_dimensions": 9,
         "data_length": 144
