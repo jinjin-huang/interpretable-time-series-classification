@@ -1,0 +1,1353 @@
+[
+    {
+        "dataset_name": "AbnormalHeartbeat",
+        "data_path": "../../datasets/AbnormalHeartbeat/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 18530
+    },
+    {
+        "dataset_name": "ACSF1",
+        "data_path": "../../datasets/ACSF1/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 1460
+    },
+    {
+        "dataset_name": "Adiac",
+        "data_path": "../../datasets/Adiac/",
+        "num_classes": 37,
+        "num_dimensions": 1,
+        "data_length": 176
+    },
+    {
+        "dataset_name": "AllGestureWiimoteX",
+        "data_path": "../../datasets/AllGestureWiimoteX/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 500
+    },
+    {
+        "dataset_name": "AllGestureWiimoteY",
+        "data_path": "../../datasets/AllGestureWiimoteY/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 500
+    },
+    {
+        "dataset_name": "AllGestureWiimoteZ",
+        "data_path": "../../datasets/AllGestureWiimoteZ/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 500
+    },
+    {
+        "dataset_name": "ArrowHead",
+        "data_path": "../../datasets/ArrowHead/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 251
+    },
+    {
+        "dataset_name": "AsphaltObstacles",
+        "data_path": "../../datasets/AsphaltObstacles/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 736
+    },
+    {
+        "dataset_name": "AsphaltObstaclesCoordinates",
+        "data_path": "../../datasets/AsphaltObstaclesCoordinates/",
+        "num_classes": 4,
+        "num_dimensions": 3,
+        "data_length": 298
+    },
+    {
+        "dataset_name": "AsphaltPavementType",
+        "data_path": "../../datasets/AsphaltPavementType/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 2371
+    },
+    {
+        "dataset_name": "AsphaltPavementTypeCoordinates",
+        "data_path": "../../datasets/AsphaltPavementTypeCoordinates/",
+        "num_classes": 3,
+        "num_dimensions": 3,
+        "data_length": 400
+    },
+    {
+        "dataset_name": "AsphaltRegularity",
+        "data_path": "../../datasets/AsphaltRegularity/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 4201
+    },
+    {
+        "dataset_name": "AsphaltRegularityCoordinates",
+        "data_path": "../../datasets/AsphaltRegularityCoordinates/",
+        "num_classes": 2,
+        "num_dimensions": 3,
+        "data_length": 384
+    },
+    {
+        "dataset_name": "ArticularyWordRecognition",
+        "data_path": "../../datasets/ArticularyWordRecognition/",
+        "num_classes": 25,
+        "num_dimensions": 9,
+        "data_length": 144
+    },
+    {
+        "dataset_name": "AtrialFibrillation",
+        "data_path": "../../datasets/AtrialFibrillation/",
+        "num_classes": 3,
+        "num_dimensions": 2,
+        "data_length": 640
+    },
+    {
+        "dataset_name": "BasicMotions",
+        "data_path": "../../datasets/BasicMotions/",
+        "num_classes": 4,
+        "num_dimensions": 6,
+        "data_length": 100
+    },
+    {
+        "dataset_name": "Beef",
+        "data_path": "../../datasets/Beef/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 470
+    },
+    {
+        "dataset_name": "BeetleFly",
+        "data_path": "../../datasets/BeetleFly/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 512
+    },
+    {
+        "dataset_name": "BinaryHeartbeat",
+        "data_path": "../../datasets/BinaryHeartbeat/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 18530
+    },
+    {
+        "dataset_name": "BirdChicken",
+        "data_path": "../../datasets/BirdChicken/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 512
+    },
+    {
+        "dataset_name": "Blink",
+        "data_path": "../../datasets/Blink/",
+        "num_classes": 2,
+        "num_dimensions": 4,
+        "data_length": 510
+    },
+    {
+        "dataset_name": "BME",
+        "data_path": "../../datasets/BME/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 128
+    },
+    {
+        "dataset_name": "Car",
+        "data_path": "../../datasets/Car/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 577
+    },
+    {
+        "dataset_name": "CardiacArrhythmia",
+        "data_path": "../../datasets/CardiacArrhythmia/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 1500
+    },
+    {
+        "dataset_name": "CatsDogs",
+        "data_path": "../../datasets/CatsDogs/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 14773
+    },
+    {
+        "dataset_name": "CBF",
+        "data_path": "../../datasets/CBF/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 128
+    },
+    {
+        "dataset_name": "CharacterTrajectories",
+        "data_path": "../../datasets/CharacterTrajectories/",
+        "num_classes": 20,
+        "num_dimensions": 3,
+        "data_length": 119
+    },
+    {
+        "dataset_name": "Chinatown",
+        "data_path": "../../datasets/Chinatown/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 24
+    },
+    {
+        "dataset_name": "ChlorineConcentration",
+        "data_path": "../../datasets/ChlorineConcentration/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 166
+    },
+    {
+        "dataset_name": "CinCECGTorso",
+        "data_path": "../../datasets/CinCECGTorso/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 1639
+    },
+    {
+        "dataset_name": "Coffee",
+        "data_path": "../../datasets/Coffee/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 286
+    },
+    {
+        "dataset_name": "Colposcopy",
+        "data_path": "../../datasets/Colposcopy/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 180
+    },
+    {
+        "dataset_name": "Computers",
+        "data_path": "../../datasets/Computers/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 720
+    },
+    {
+        "dataset_name": "CounterMovementJump",
+        "data_path": "../../datasets/CounterMovementJump/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 4250
+    },
+    {
+        "dataset_name": "Cricket",
+        "data_path": "../../datasets/Cricket/",
+        "num_classes": 12,
+        "num_dimensions": 6,
+        "data_length": 1197
+    },
+    {
+        "dataset_name": "CricketY",
+        "data_path": "../../datasets/CricketY/",
+        "num_classes": 12,
+        "num_dimensions": 1,
+        "data_length": 300
+    },
+    {
+        "dataset_name": "CricketZ",
+        "data_path": "../../datasets/CricketZ/",
+        "num_classes": 12,
+        "num_dimensions": 1,
+        "data_length": 300
+    },
+    {
+        "dataset_name": "Crop",
+        "data_path": "../../datasets/Crop/",
+        "num_classes": 24,
+        "num_dimensions": 1,
+        "data_length": 46
+    },
+    {
+        "dataset_name": "DiatomSizeReduction",
+        "data_path": "../../datasets/DiatomSizeReduction/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 345
+    },
+    {
+        "dataset_name": "DistalPhalanxOutlineAgeGroup",
+        "data_path": "../../datasets/DistalPhalanxOutlineAgeGroup/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "DistalPhalanxOutlineCorrect",
+        "data_path": "../../datasets/DistalPhalanxOutlineCorrect/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "DistalPhalanxTW",
+        "data_path": "../../datasets/DistalPhalanxTW/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "DodgerLoopDay",
+        "data_path": "../../datasets/DodgerLoopDay/",
+        "num_classes": 7,
+        "num_dimensions": 1,
+        "data_length": 288
+    },
+    {
+        "dataset_name": "DodgerLoopGame",
+        "data_path": "../../datasets/DodgerLoopGame/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 288
+    },
+    {
+        "dataset_name": "DodgerLoopWeekend",
+        "data_path": "../../datasets/DodgerLoopWeekend/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 288
+    },
+    {
+        "dataset_name": "ECG5000",
+        "data_path": "../../datasets/ECG5000/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 140
+    },
+    {
+        "dataset_name": "ECGFiveDays",
+        "data_path": "../../datasets/ECGFiveDays/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 136
+    },
+    {
+        "dataset_name": "EigenWorms",
+        "data_path": "../../datasets/EigenWorms/",
+        "num_classes": 5,
+        "num_dimensions": 6,
+        "data_length": 17984
+    },
+    {
+        "dataset_name": "ElectricDeviceDetection",
+        "data_path": "../../datasets/ElectricDeviceDetection/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 256
+    },
+    {
+        "dataset_name": "ElectricDevices",
+        "data_path": "../../datasets/ElectricDevices/",
+        "num_classes": 7,
+        "num_dimensions": 1,
+        "data_length": 96
+    },
+    {
+        "dataset_name": "EMOPain",
+        "data_path": "../../datasets/EMOPain/",
+        "num_classes": 3,
+        "num_dimensions": 30,
+        "data_length": 200
+    },
+    {
+        "dataset_name": "EOGHorizontalSignal",
+        "data_path": "../../datasets/EOGHorizontalSignal/",
+        "num_classes": 12,
+        "num_dimensions": 1,
+        "data_length": 1250
+    },
+    {
+        "dataset_name": "EOGVerticalSignal",
+        "data_path": "../../datasets/EOGVerticalSignal/",
+        "num_classes": 12,
+        "num_dimensions": 1,
+        "data_length": 1250
+    },
+    {
+        "dataset_name": "Epilepsy2",
+        "data_path": "../../datasets/Epilepsy2/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 178
+    },
+    {
+        "dataset_name": "ERing",
+        "data_path": "../../datasets/ERing/",
+        "num_classes": 6,
+        "num_dimensions": 4,
+        "data_length": 65
+    },
+    {
+        "dataset_name": "EthanolConcentration",
+        "data_path": "../../datasets/EthanolConcentration/",
+        "num_classes": 4,
+        "num_dimensions": 3,
+        "data_length": 1751
+    },
+    {
+        "dataset_name": "EthanolLevel",
+        "data_path": "../../datasets/EthanolLevel/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 1751
+    },
+    {
+        "dataset_name": "EyesOpenShut",
+        "data_path": "../../datasets/EyesOpenShut/",
+        "num_classes": 2,
+        "num_dimensions": 14,
+        "data_length": 128
+    },
+    {
+        "dataset_name": "FaceAll",
+        "data_path": "../../datasets/FaceAll/",
+        "num_classes": 14,
+        "num_dimensions": 1,
+        "data_length": 131
+    },
+    {
+        "dataset_name": "FaceDetection",
+        "data_path": "../../datasets/FaceDetection/",
+        "num_classes": 2,
+        "num_dimensions": 144,
+        "data_length": 62
+    },
+    {
+        "dataset_name": "FaceFour",
+        "data_path": "../../datasets/FaceFour/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 350
+    },
+    {
+        "dataset_name": "FacesUCR",
+        "data_path": "../../datasets/FacesUCR/",
+        "num_classes": 14,
+        "num_dimensions": 1,
+        "data_length": 131
+    },
+    {
+        "dataset_name": "FaultDetectionA",
+        "data_path": "../../datasets/FaultDetectionA/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 5120
+    },
+    {
+        "dataset_name": "FaultDetectionB",
+        "data_path": "../../datasets/FaultDetectionB/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 5120
+    },
+    {
+        "dataset_name": "DuckDuckGeese",
+        "data_path": "../../datasets/DuckDuckGeese/",
+        "num_classes": 5,
+        "num_dimensions": 1345,
+        "data_length": 270
+    },
+    {
+        "dataset_name": "JapaneseVowels",
+        "data_path": "../../datasets/JapaneseVowels/",
+        "num_classes": 9,
+        "num_dimensions": 12,
+        "data_length": 25
+    },
+    {
+        "dataset_name": "MotionSenseHAR",
+        "data_path": "../../datasets/MotionSenseHAR/",
+        "num_classes": 6,
+        "num_dimensions": 12,
+        "data_length": 1000
+    },
+    {
+        "dataset_name": "RacketSports",
+        "data_path": "../../datasets/RacketSports/",
+        "num_classes": 4,
+        "num_dimensions": 6,
+        "data_length": 30
+    },
+    {
+        "dataset_name": "SelfRegulationSCP1",
+        "data_path": "../../datasets/SelfRegulationSCP1/",
+        "num_classes": 2,
+        "num_dimensions": 6,
+        "data_length": 896
+    },
+    {
+        "dataset_name": "Handwriting",
+        "data_path": "../../datasets/Handwriting/",
+        "num_classes": 26,
+        "num_dimensions": 3,
+        "data_length": 152
+    },
+    {
+        "dataset_name": "Epilepsy",
+        "data_path": "../../datasets/Epilepsy/",
+        "num_classes": 4,
+        "num_dimensions": 3,
+        "data_length": 206
+    },
+    {
+        "dataset_name": "AtrialFibrillation",
+        "data_path": "../../datasets/AtrialFibrillation/",
+        "num_classes": 3,
+        "num_dimensions": 2,
+        "data_length": 640
+    },
+    {
+        "dataset_name": "CricketX",
+        "data_path": "../../datasets/CricketX/",
+        "num_classes": 12,
+        "num_dimensions": 1,
+        "data_length": 300
+    },
+    {
+        "dataset_name": "ECG200",
+        "data_path": "../../datasets/ECG200/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 96
+    },
+    {
+        "dataset_name": "InsectEPGRegularTrain",
+        "data_path": "../../datasets/InsectEPGRegularTrain/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 601
+    },
+    {
+        "dataset_name": "WordSynonyms",
+        "data_path": "../../datasets/WordSynonyms/",
+        "num_classes": 25,
+        "num_dimensions": 1,
+        "data_length": 270
+    },
+    {
+        "dataset_name": "Haptics",
+        "data_path": "../../datasets/Haptics/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 1092
+    },
+    {
+        "dataset_name": "FiftyWords",
+        "data_path": "../../datasets/FiftyWords/",
+        "num_classes": 50,
+        "num_dimensions": 1,
+        "data_length": 270
+    },
+    {
+        "dataset_name": "FingerMovements",
+        "data_path": "../../datasets/FingerMovements/",
+        "num_classes": 2,
+        "num_dimensions": 28,
+        "data_length": 50
+    },
+    {
+        "dataset_name": "Fish",
+        "data_path": "../../datasets/Fish/",
+        "num_classes": 7,
+        "num_dimensions": 1,
+        "data_length": 463
+    },
+    {
+        "dataset_name": "FordA",
+        "data_path": "../../datasets/FordA/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 500
+    },
+    {
+        "dataset_name": "FordB",
+        "data_path": "../../datasets/FordB/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 500
+    },
+    {
+        "dataset_name": "FreezerRegularTrain",
+        "data_path": "../../datasets/FreezerRegularTrain/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 301
+    },
+    {
+        "dataset_name": "FreezerSmallTrain",
+        "data_path": "../../datasets/FreezerSmallTrain/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 301
+    },
+    {
+        "dataset_name": "FruitFlies",
+        "data_path": "../../datasets/FruitFlies/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 5000
+    },
+    {
+        "dataset_name": "Fungi",
+        "data_path": "../../datasets/Fungi/",
+        "num_classes": 18,
+        "num_dimensions": 1,
+        "data_length": 201
+    },
+    {
+        "dataset_name": "GestureMidAirD1",
+        "data_path": "../../datasets/GestureMidAirD1/",
+        "num_classes": 26,
+        "num_dimensions": 1,
+        "data_length": 360
+    },
+    {
+        "dataset_name": "GestureMidAirD2",
+        "data_path": "../../datasets/GestureMidAirD2/",
+        "num_classes": 26,
+        "num_dimensions": 1,
+        "data_length": 360
+    },
+    {
+        "dataset_name": "GestureMidAirD3",
+        "data_path": "../../datasets/GestureMidAirD3/",
+        "num_classes": 26,
+        "num_dimensions": 1,
+        "data_length": 360
+    },
+    {
+        "dataset_name": "GesturePebbleZ1",
+        "data_path": "../../datasets/GesturePebbleZ1/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 455
+    },
+    {
+        "dataset_name": "GesturePebbleZ2",
+        "data_path": "../../datasets/GesturePebbleZ2/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 455
+    },
+    {
+        "dataset_name": "GunPoint",
+        "data_path": "../../datasets/GunPoint/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 150
+    },
+    {
+        "dataset_name": "GunPointAgeSpan",
+        "data_path": "../../datasets/GunPointAgeSpan/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 150
+    },
+    {
+        "dataset_name": "GunPointMaleVersusFemale",
+        "data_path": "../../datasets/GunPointMaleVersusFemale/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 150
+    },
+    {
+        "dataset_name": "GunPointOldVersusYoung",
+        "data_path": "../../datasets/GunPointOldVersusYoung/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 150
+    },
+    {
+        "dataset_name": "Ham",
+        "data_path": "../../datasets/Ham/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 431
+    },
+    {
+        "dataset_name": "HandMovementDirection",
+        "data_path": "../../datasets/HandMovementDirection/",
+        "num_classes": 4,
+        "num_dimensions": 10,
+        "data_length": 400
+    },
+    {
+        "dataset_name": "HandOutlines",
+        "data_path": "../../datasets/HandOutlines/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 2709
+    },
+    {
+        "dataset_name": "Heartbeat",
+        "data_path": "../../datasets/Heartbeat/",
+        "num_classes": 2,
+        "num_dimensions": 61,
+        "data_length": 405
+    },
+    {
+        "dataset_name": "Herring",
+        "data_path": "../../datasets/Herring/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 512
+    },
+    {
+        "dataset_name": "HouseTwenty",
+        "data_path": "../../datasets/HouseTwenty/",
+        "num_classes": 2,
+        "num_dimensions": 32,
+        "data_length": 2000
+    },
+    {
+        "dataset_name": "InlineSkate",
+        "data_path": "../../datasets/InlineSkate/",
+        "num_classes": 7,
+        "num_dimensions": 1,
+        "data_length": 1882
+    },
+    {
+        "dataset_name": "InsectEPGRegularTrain",
+        "data_path": "../../datasets/InsectEPGRegularTrain/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 601
+    },
+    {
+        "dataset_name": "InsectEPGSmallTrain",
+        "data_path": "../../datasets/InsectEPGSmallTrain/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 601
+    },
+    {
+        "dataset_name": "InsectSound",
+        "data_path": "../../datasets/InsectSound/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 600
+    },
+    {
+        "dataset_name": "InsectWingbeat",
+        "data_path": "../../datasets/InsectWingbeat/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 0
+    },
+    {
+        "dataset_name": "ItalyPowerDemand",
+        "data_path": "../../datasets/ItalyPowerDemand/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 24
+    },
+    {
+        "dataset_name": "KeplerLightCurves",
+        "data_path": "../../datasets/KeplerLightCurves/",
+        "num_classes": 7,
+        "num_dimensions": 1,
+        "data_length": 4767
+    },
+    {
+        "dataset_name": "LargeKitchenAppliances",
+        "data_path": "../../datasets/LargeKitchenAppliances/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 720
+    },
+    {
+        "dataset_name": "Libras",
+        "data_path": "../../datasets/Libras/",
+        "num_classes": 15,
+        "num_dimensions": 2,
+        "data_length": 45
+    },
+    {
+        "dataset_name": "Lightning2",
+        "data_path": "../../datasets/Lightning2/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 637
+    },
+    {
+        "dataset_name": "Lightning7",
+        "data_path": "../../datasets/Lightning7/",
+        "num_classes": 7,
+        "num_dimensions": 1,
+        "data_length": 319
+    },
+    {
+        "dataset_name": "LSST",
+        "data_path": "../../datasets/LSST/",
+        "num_classes": 14,
+        "num_dimensions": 6,
+        "data_length": 36
+    },
+    {
+        "dataset_name": "Mallat",
+        "data_path": "../../datasets/Mallat/",
+        "num_classes": 8,
+        "num_dimensions": 1,
+        "data_length": 1024
+    },
+    {
+        "dataset_name": "Meat",
+        "data_path": "../../datasets/Meat/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 448
+    },
+    {
+        "dataset_name": "MedicalImages",
+        "data_path": "../../datasets/MedicalImages/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 99
+    },
+    {
+        "dataset_name": "MelbournePedestrian",
+        "data_path": "../../datasets/MelbournePedestrian/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 24
+    },
+    {
+        "dataset_name": "MiddlePhalanxOutlineAgeGroup",
+        "data_path": "../../datasets/MiddlePhalanxOutlineAgeGroup/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "MiddlePhalanxOutlineCorrect",
+        "data_path": "../../datasets/MiddlePhalanxOutlineCorrect/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "MiddlePhalanxTW",
+        "data_path": "../../datasets/MiddlePhalanxTW/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "MindReading",
+        "data_path": "../../datasets/MindReading/",
+        "num_classes": 5,
+        "num_dimensions": 204,
+        "data_length": 200
+    },
+    {
+        "dataset_name": "MixedShapesRegularTrain",
+        "data_path": "../../datasets/MixedShapesRegularTrain/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 1024
+    },
+    {
+        "dataset_name": "MixedShapesSmallTrain",
+        "data_path": "../../datasets/MixedShapesSmallTrain/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 1024
+    },
+    {
+        "dataset_name": "MosquitoSound",
+        "data_path": "../../datasets/MosquitoSound/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 3750
+    },
+    {
+        "dataset_name": "MoteStrain",
+        "data_path": "../../datasets/MoteStrain/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 84
+    },
+    {
+        "dataset_name": "MotionSenseHAR",
+        "data_path": "../../datasets/MotionSenseHAR/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 200
+    },
+    {
+        "dataset_name": "MotorImagery",
+        "data_path": "../../datasets/MotorImagery/",
+        "num_classes": 2,
+        "num_dimensions": 64,
+        "data_length": 3000
+    },
+    {
+        "dataset_name": "NATOPS",
+        "data_path": "../../datasets/NATOPS/",
+        "num_classes": 6,
+        "num_dimensions": 24,
+        "data_length": 51
+    },
+    {
+        "dataset_name": "NerveDamage",
+        "data_path": "../../datasets/NerveDamage/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 1500
+    },
+    {
+        "dataset_name": "NonInvasiveFetalECGThorax1",
+        "data_path": "../../datasets/NonInvasiveFetalECGThorax1/",
+        "num_classes": 42,
+        "num_dimensions": 1,
+        "data_length": 750
+    },
+    {
+        "dataset_name": "NonInvasiveFetalECGThorax2",
+        "data_path": "../../datasets/NonInvasiveFetalECGThorax2/",
+        "num_classes": 42,
+        "num_dimensions": 1,
+        "data_length": 750
+    },
+    {
+        "dataset_name": "OliveOil",
+        "data_path": "../../datasets/OliveOil/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 570
+    },
+    {
+        "dataset_name": "OSULeaf",
+        "data_path": "../../datasets/OSULeaf/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 427
+    },
+    {
+        "dataset_name": "PEMS-SF",
+        "data_path": "../../datasets/PEMS-SF/",
+        "num_classes": 7,
+        "num_dimensions": 963,
+        "data_length": 144
+    },
+    {
+        "dataset_name": "PenDigits",
+        "data_path": "../../datasets/PenDigits/",
+        "num_classes": 10,
+        "num_dimensions": 2,
+        "data_length": 8
+    },
+    {
+        "dataset_name": "PhalangesOutlinesCorrect",
+        "data_path": "../../datasets/PhalangesOutlinesCorrect/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "Phoneme",
+        "data_path": "../../datasets/Phoneme/",
+        "num_classes": 39,
+        "num_dimensions": 1,
+        "data_length": 1024
+    },
+    {
+        "dataset_name": "PhonemeSpectra",
+        "data_path": "../../datasets/PhonemeSpectra/",
+        "num_classes": 39,
+        "num_dimensions": 11,
+        "data_length": 217
+    },
+    {
+        "dataset_name": "PickupGestureWiimoteZ",
+        "data_path": "../../datasets/PickupGestureWiimoteZ/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 361
+    },
+    {
+        "dataset_name": "PigAirwayPressure",
+        "data_path": "../../datasets/PigAirwayPressure/",
+        "num_classes": 52,
+        "num_dimensions": 1,
+        "data_length": 2000
+    },
+    {
+        "dataset_name": "PigArtPressure",
+        "data_path": "../../datasets/PigArtPressure/",
+        "num_classes": 52,
+        "num_dimensions": 1,
+        "data_length": 2000
+    },
+    {
+        "dataset_name": "PigCVP",
+        "data_path": "../../datasets/PigCVP/",
+        "num_classes": 52,
+        "num_dimensions": 1,
+        "data_length": 2000
+    },
+    {
+        "dataset_name": "PLAID",
+        "data_path": "../../datasets/PLAID/",
+        "num_classes": 11,
+        "num_dimensions": 1,
+        "data_length": 1345
+    },
+    {
+        "dataset_name": "Plane",
+        "data_path": "../../datasets/Plane/",
+        "num_classes": 7,
+        "num_dimensions": 1,
+        "data_length": 144
+    },
+    {
+        "dataset_name": "PowerCons",
+        "data_path": "../../datasets/PowerCons/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 144
+    },
+    {
+        "dataset_name": "ProximalPhalanxOutlineAgeGroup",
+        "data_path": "../../datasets/ProximalPhalanxOutlineAgeGroup/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "ProximalPhalanxOutlineCorrect",
+        "data_path": "../../datasets/ProximalPhalanxOutlineCorrect/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "ProximalPhalanxTW",
+        "data_path": "../../datasets/ProximalPhalanxTW/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 80
+    },
+    {
+        "dataset_name": "RefrigerationDevices",
+        "data_path": "../../datasets/RefrigerationDevices/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 720
+    },
+    {
+        "dataset_name": "RightWhaleCalls",
+        "data_path": "../../datasets/RightWhaleCalls/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 4000
+    },
+    {
+        "dataset_name": "Rock",
+        "data_path": "../../datasets/Rock/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 2844
+    },
+    {
+        "dataset_name": "ScreenType",
+        "data_path": "../../datasets/ScreenType/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 720
+    },
+    {
+        "dataset_name": "SelfRegulationSCP2",
+        "data_path": "../../datasets/SelfRegulationSCP2/",
+        "num_classes": 2,
+        "num_dimensions": 7,
+        "data_length": 1152
+    },
+    {
+        "dataset_name": "SemgHandGenderCh2",
+        "data_path": "../../datasets/SemgHandGenderCh2/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 1500
+    },
+    {
+        "dataset_name": "SemgHandMovementCh2",
+        "data_path": "../../datasets/SemgHandMovementCh2/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 1500
+    },
+    {
+        "dataset_name": "SemgHandSubjectCh2",
+        "data_path": "../../datasets/SemgHandSubjectCh2/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 1500
+    },
+    {
+        "dataset_name": "ShakeGestureWiimoteZ",
+        "data_path": "../../datasets/ShakeGestureWiimoteZ/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 385
+    },
+    {
+        "dataset_name": "ShapeletSim",
+        "data_path": "../../datasets/ShapeletSim/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 500
+    },
+    {
+        "dataset_name": "ShapesAll",
+        "data_path": "../../datasets/ShapesAll/",
+        "num_classes": 60,
+        "num_dimensions": 1,
+        "data_length": 512
+    },
+    {
+        "dataset_name": "SharePriceIncrease",
+        "data_path": "../../datasets/SharePriceIncrease/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 60
+    },
+    {
+        "dataset_name": "Sleep",
+        "data_path": "../../datasets/Sleep/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 178
+    },
+    {
+        "dataset_name": "SmallKitchenAppliances",
+        "data_path": "../../datasets/SmallKitchenAppliances/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 720
+    },
+    {
+        "dataset_name": "SmoothSubspace",
+        "data_path": "../../datasets/SmoothSubspace/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 15
+    },
+    {
+        "dataset_name": "SonyAIBORobotSurface1",
+        "data_path": "../../datasets/SonyAIBORobotSurface1/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 70
+    },
+    {
+        "dataset_name": "SonyAIBORobotSurface2",
+        "data_path": "../../datasets/SonyAIBORobotSurface2/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 65
+    },
+    {
+        "dataset_name": "SpokenArabicDigits",
+        "data_path": "../../datasets/SpokenArabicDigits/",
+        "num_classes": 10,
+        "num_dimensions": 13,
+        "data_length": 65
+    },
+    {
+        "dataset_name": "StandWalkJump",
+        "data_path": "../../datasets/StandWalkJump/",
+        "num_classes": 3,
+        "num_dimensions": 4,
+        "data_length": 2500
+    },
+    {
+        "dataset_name": "StarLightCurves",
+        "data_path": "../../datasets/StarLightCurves/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 1024
+    },
+    {
+        "dataset_name": "Strawberry",
+        "data_path": "../../datasets/Strawberry/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 235
+    },
+    {
+        "dataset_name": "SwedishLeaf",
+        "data_path": "../../datasets/SwedishLeaf/",
+        "num_classes": 15,
+        "num_dimensions": 1,
+        "data_length": 128
+    },
+    {
+        "dataset_name": "Symbols",
+        "data_path": "../../datasets/Symbols/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 398
+    },
+    {
+        "dataset_name": "SyntheticControl",
+        "data_path": "../../datasets/SyntheticControl/",
+        "num_classes": 6,
+        "num_dimensions": 1,
+        "data_length": 60
+    },
+    {
+        "dataset_name": "Tiselac",
+        "data_path": "../../datasets/Tiselac/",
+        "num_classes": 9,
+        "num_dimensions": 10,
+        "data_length": 23
+    },
+    {
+        "dataset_name": "ToeSegmentation1",
+        "data_path": "../../datasets/ToeSegmentation1/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 277
+    },
+    {
+        "dataset_name": "ToeSegmentation2",
+        "data_path": "../../datasets/ToeSegmentation2/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 343
+    },
+    {
+        "dataset_name": "Trace",
+        "data_path": "../../datasets/Trace/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 275
+    },
+    {
+        "dataset_name": "TwoLeadECG",
+        "data_path": "../../datasets/TwoLeadECG/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 82
+    },
+    {
+        "dataset_name": "TwoPatterns",
+        "data_path": "../../datasets/TwoPatterns/",
+        "num_classes": 4,
+        "num_dimensions": 1,
+        "data_length": 128
+    },
+    {
+        "dataset_name": "UMD",
+        "data_path": "../../datasets/UMD/",
+        "num_classes": 3,
+        "num_dimensions": 1,
+        "data_length": 150
+    },
+    {
+        "dataset_name": "UrbanSound",
+        "data_path": "../../datasets/UrbanSound/",
+        "num_classes": 10,
+        "num_dimensions": 1,
+        "data_length": 44100
+    },
+    {
+        "dataset_name": "UWaveGestureLibrary",
+        "data_path": "../../datasets/UWaveGestureLibrary/",
+        "num_classes": 8,
+        "num_dimensions": 3,
+        "data_length": 315
+    },
+    {
+        "dataset_name": "UWaveGestureLibraryAll",
+        "data_path": "../../datasets/UWaveGestureLibraryAll/",
+        "num_classes": 8,
+        "num_dimensions": 1,
+        "data_length": 945
+    },
+    {
+        "dataset_name": "UWaveGestureLibraryX",
+        "data_path": "../../datasets/UWaveGestureLibraryX/",
+        "num_classes": 8,
+        "num_dimensions": 1,
+        "data_length": 315
+    },
+    {
+        "dataset_name": "UWaveGestureLibraryY",
+        "data_path": "../../datasets/UWaveGestureLibraryY/",
+        "num_classes": 8,
+        "num_dimensions": 1,
+        "data_length": 315
+    },
+    {
+        "dataset_name": "UWaveGestureLibraryZ",
+        "data_path": "../../datasets/UWaveGestureLibraryZ/",
+        "num_classes": 8,
+        "num_dimensions": 1,
+        "data_length": 315
+    },
+    {
+        "dataset_name": "Wafer",
+        "data_path": "../../datasets/Wafer/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 152
+    },
+    {
+        "dataset_name": "WalkingSittingStanding",
+        "data_path": "../../datasets/WalkingSittingStanding/",
+        "num_classes": 6,
+        "num_dimensions": 3,
+        "data_length": 206
+    },
+    {
+        "dataset_name": "Wine",
+        "data_path": "../../datasets/Wine/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 234
+    },
+    {
+        "dataset_name": "Worms",
+        "data_path": "../../datasets/Worms/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 900
+    },
+    {
+        "dataset_name": "WormsTwoClass",
+        "data_path": "../../datasets/WormsTwoClass/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 900
+    },
+    {
+        "dataset_name": "Yoga",
+        "data_path": "../../datasets/Yoga/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 426
+    },
+    {
+        "dataset_name": "Earthquakes",
+        "data_path": "../../datasets/Earthquakes/",
+        "num_classes": 2,
+        "num_dimensions": 1,
+        "data_length": 512
+    },
+    {
+        "dataset_name": "DucksAndGeese",
+        "data_path": "../../datasets/DucksAndGeese/",
+        "num_classes": 5,
+        "num_dimensions": 1,
+        "data_length": 236784
+    }
+]
