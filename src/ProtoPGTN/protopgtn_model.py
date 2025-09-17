@@ -1,29 +1,30 @@
 import csv
+import os
+import random
+import time
 from pathlib import Path
+
+import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import torch.optim as optim
+from sklearn.model_selection import KFold, train_test_split
+from torch.utils.data import DataLoader
+
+from src.ProtoPGTN.gated_transformer import Gated_Transformer
 from src.utils.helpers import load_ts_file
-import os
 from src.utils.settings import (
-    train_file,
-    test_file,
+    args,
+    data_length,
     dataset_name,
     experiment_run,
     num_classes,
     num_dimensions,
-    data_length,
-    args,
+    test_file,
+    train_file,
 )
 from src.utils.TimeSeriesDataset import TimeSeriesDataset
-from torch.utils.data import DataLoader
-import torch.optim as optim
-import numpy as np
-from src.ProtoPGTN.gated_transformer import Gated_Transformer
-from sklearn.model_selection import KFold
-import random
-import time
-from sklearn.model_selection import train_test_split
 
 
 def set_seed(seed=42):
